@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Default Methods in Interfaces"/>
+	<classpathentry kind="src" path="Defining and Implementing Interfaces"/>
+	<classpathentry kind="src" path="Functional Interfaces"/>
+	<classpathentry kind="src" path="Marker Interfaces"/>
+	<classpathentry kind="src" path="Static Methods in Interfaces"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
